@@ -14,3 +14,7 @@ https://cartopy-pelson.readthedocs.io/en/readthedocs/matplotlib/intro.html
 https://askaichat.app/chat for help with merging columns from different files
 
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01330-1/fulltext data for blood pressure
+
+tutoring services to help overcome broken graph coding that was previously working
+
+
